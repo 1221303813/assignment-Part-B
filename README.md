@@ -33,4 +33,4 @@ Please replace the following with your group members' names.
 
 - Chin Sheng Jun
 - Lee Ken Yu
-- Wong Guan Yu
+- Wong Guang Yu
